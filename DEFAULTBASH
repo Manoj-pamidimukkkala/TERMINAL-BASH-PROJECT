@@ -1,0 +1,2 @@
+sudo bash -c 'echo /opt/homebrew/bin/bash >> /etc/shells'
+chsh -s /opt/homebrew/bin/bash
