@@ -1,0 +1,11 @@
+#!/bin/bash
+
+clear
+
+echo "================================"
+echo "      AI TERMINAL"
+echo "================================"
+
+echo "Welcome Commander"
+echo "Time: $(date)"
+echo "User: $(whoami)"
