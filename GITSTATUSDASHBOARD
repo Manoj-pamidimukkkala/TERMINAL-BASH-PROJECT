@@ -1,0 +1,7 @@
+#!/bin/bash
+
+echo "Branch:"
+git branch --show-current
+
+echo
+git status
