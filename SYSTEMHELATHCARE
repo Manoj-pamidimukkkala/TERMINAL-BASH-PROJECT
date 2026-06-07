@@ -1,0 +1,13 @@
+#!/bin/bash
+
+echo "===== SYSTEM HEALTH ====="
+echo "CPU:"
+top -l 1 | head -10
+
+echo
+echo "Memory:"
+vm_stat
+
+echo
+echo "Disk:"
+df -h
