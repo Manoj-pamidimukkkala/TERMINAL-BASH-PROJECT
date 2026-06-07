@@ -1,0 +1,6 @@
+#!/bin/bash
+
+python3 --version
+node --version
+git --version
+java --version
